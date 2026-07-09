@@ -1,0 +1,19 @@
+[
+  {"question": "What is the correct file extension for Python files?", "options": [".py", ".pt", ".pyt", ".pyth"], "answer": ".py"},
+  {"question": "Which keyword is used to define a function in Python?", "options": ["function", "def", "fun", "define"], "answer": "def"},
+  {"question": "What data type is the result of 10 / 3 in Python 3?", "options": ["int", "float", "double", "str"], "answer": "float"},
+  {"question": "Which of the following is used to create a list in Python?", "options": ["{}", "()", "[]", "<>"], "answer": "[]"},
+  {"question": "What does the 'len()' function do?", "options": ["Returns the type", "Returns the length", "Returns the last item", "Returns the location"], "answer": "Returns the length"},
+  {"question": "Which keyword is used for exception handling in Python?", "options": ["catch", "except", "handle", "error"], "answer": "except"},
+  {"question": "How do you create a comment in Python?", "options": ["// comment", "# comment", "/* comment */", "<!-- comment -->"], "answer": "# comment"},
+  {"question": "What is the output of type([])?", "options": ["<class 'list'>", "<class 'array'>", "<class 'tuple'>", "<class 'dict'>"], "answer": "<class 'list'>"},
+  {"question": "Which method adds an item to the end of a list?", "options": ["add()", "append()", "insert()", "push()"], "answer": "append()"},
+  {"question": "What is the correct way to import a module named 'math'?", "options": ["include math", "import math", "using math", "require math"], "answer": "import math"},
+  {"question": "Which data structure uses key-value pairs in Python?", "options": ["List", "Tuple", "Set", "Dictionary"], "answer": "Dictionary"},
+  {"question": "What symbol is used to denote a Python decorator?", "options": ["#", "$", "@", "%"], "answer": "@"},
+  {"question": "Which of these is immutable in Python?", "options": ["List", "Dictionary", "Tuple", "Set"], "answer": "Tuple"},
+  {"question": "What does 'self' represent in a Python class method?", "options": ["The class itself", "The instance of the class", "A static variable", "A global variable"], "answer": "The instance of the class"},
+  {"question": "Which function converts a string to an integer?", "options": ["str()", "int()", "float()", "chr()"], "answer": "int()"},
+  {"question": "What is PEP 8?", "options": ["A Python library", "A style guide for Python code", "A Python version", "A testing framework"], "answer": "A style guide for Python code"},
+  {"question": "Which operator is used for exponentiation in Python?", "options": ["^", "**", "%%", "//"], "answer": "**"}
+]

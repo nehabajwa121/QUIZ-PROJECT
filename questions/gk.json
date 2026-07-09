@@ -1,0 +1,18 @@
+[
+  {"question": "What is the capital of France?", "options": ["Berlin", "Madrid", "Paris", "Rome"], "answer": "Paris"},
+  {"question": "Which is the largest ocean on Earth?", "options": ["Atlantic", "Indian", "Arctic", "Pacific"], "answer": "Pacific"},
+  {"question": "Who wrote the play 'Romeo and Juliet'?", "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Leo Tolstoy"], "answer": "William Shakespeare"},
+  {"question": "Which country is known as the Land of the Rising Sun?", "options": ["China", "Japan", "Thailand", "South Korea"], "answer": "Japan"},
+  {"question": "What is the largest continent by area?", "options": ["Africa", "Asia", "Europe", "North America"], "answer": "Asia"},
+  {"question": "Which is the longest river in the world?", "options": ["Amazon", "Nile", "Yangtze", "Mississippi"], "answer": "Nile"},
+  {"question": "How many continents are there on Earth?", "options": ["5", "6", "7", "8"], "answer": "7"},
+  {"question": "Which country gifted the Statue of Liberty to the USA?", "options": ["England", "France", "Germany", "Italy"], "answer": "France"},
+  {"question": "What is the national currency of Japan?", "options": ["Won", "Yuan", "Yen", "Ringgit"], "answer": "Yen"},
+  {"question": "Which is the smallest country in the world?", "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"], "answer": "Vatican City"},
+  {"question": "Who was the first President of the United States?", "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams"], "answer": "George Washington"},
+  {"question": "Which festival is known as the Festival of Lights in India?", "options": ["Holi", "Diwali", "Navratri", "Eid"], "answer": "Diwali"},
+  {"question": "What is the tallest mountain in the world?", "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"], "answer": "Mount Everest"},
+  {"question": "Which planet is known as the Morning Star?", "options": ["Mars", "Venus", "Mercury", "Jupiter"], "answer": "Venus"},
+  {"question": "In which year did World War II end?", "options": ["1943", "1944", "1945", "1946"], "answer": "1945"},
+  {"question": "Which organization is the world's largest international body for peace?", "options": ["WHO", "UNESCO", "United Nations", "NATO"], "answer": "United Nations"}
+]

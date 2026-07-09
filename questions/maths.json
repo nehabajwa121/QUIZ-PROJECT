@@ -1,0 +1,18 @@
+[
+  {"question": "What is 12 x 8?", "options": ["96", "88", "104", "84"], "answer": "96"},
+  {"question": "What is the square root of 144?", "options": ["11", "12", "13", "14"], "answer": "12"},
+  {"question": "What is the value of Pi (approx)?", "options": ["3.14", "2.14", "4.13", "3.41"], "answer": "3.14"},
+  {"question": "What is 15% of 200?", "options": ["25", "30", "35", "40"], "answer": "30"},
+  {"question": "How many sides does a hexagon have?", "options": ["5", "6", "7", "8"], "answer": "6"},
+  {"question": "What is the sum of angles in a triangle?", "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"], "answer": "180 degrees"},
+  {"question": "What is 7 factorial (7!)?", "options": ["5040", "720", "40320", "5400"], "answer": "5040"},
+  {"question": "What is the result of 9^2?", "options": ["18", "81", "72", "99"], "answer": "81"},
+  {"question": "What is an even prime number?", "options": ["1", "2", "3", "4"], "answer": "2"},
+  {"question": "What is the LCM of 4 and 6?", "options": ["10", "12", "24", "8"], "answer": "12"},
+  {"question": "What is 100 divided by 4?", "options": ["20", "25", "30", "40"], "answer": "25"},
+  {"question": "What is the value of x in 2x + 4 = 10?", "options": ["2", "3", "4", "5"], "answer": "3"},
+  {"question": "What do you call a number that can only be divided by 1 and itself?", "options": ["Composite", "Prime", "Rational", "Irrational"], "answer": "Prime"},
+  {"question": "What is the area of a square with side 5?", "options": ["10", "20", "25", "30"], "answer": "25"},
+  {"question": "What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, ?", "options": ["11", "12", "13", "14"], "answer": "13"},
+  {"question": "What is 3/4 as a decimal?", "options": ["0.25", "0.5", "0.75", "0.8"], "answer": "0.75"}
+]
